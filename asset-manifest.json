@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/construx-times/static/css/main.b54162f6.css",
+    "main.js": "/construx-times/static/js/main.a4f8e7dc.js",
+    "index.html": "/construx-times/index.html",
+    "main.b54162f6.css.map": "/construx-times/static/css/main.b54162f6.css.map",
+    "main.a4f8e7dc.js.map": "/construx-times/static/js/main.a4f8e7dc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b54162f6.css",
+    "static/js/main.a4f8e7dc.js"
+  ]
+}
