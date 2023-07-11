@@ -1,38 +1,33 @@
+* {
+  font-family: "Roboto Slab", serif;
+  background-color: #0a0029;
+}
+
 .App {
-  text-align: center;
+  color: #8f8f8f;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+ol {
+  padding-left: 4rem;
+  font-size: 1.5rem;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+li {
+  margin: 1rem 0;
+  padding-left: 1rem;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+a {
+  color: #c7b5ff;
 }
 
-.App-link {
-  color: #61dafb;
+h1 {
+  color: #ff9355;
+  padding-left: 1rem;
+  font-size: 3rem;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+h2 {
+  color: #ffc6a5;
+  padding-left: 1rem;
 }
